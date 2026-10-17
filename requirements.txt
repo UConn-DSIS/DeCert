@@ -1,0 +1,4 @@
+# Rollout and scoring (OpenAI API or any OpenAI-compatible server, e.g. vLLM)
+openai>=1.30
+# Tests
+pytest>=8.0
