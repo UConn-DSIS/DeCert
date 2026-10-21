@@ -1,6 +1,6 @@
 # DeCert
 
-**Repo for the paper *"Judging the Justification: Decision Certificate Supervision for Generative Reward Models"***
+**Repository for the paper *"Judging the Justification: Decision Certificate Supervision for Generative Reward Models"***
 
 
 ## 🧠 What is DeCert?
@@ -252,13 +252,7 @@ The tests run offline. Every LLM call goes through a fake client.
 
 ## 📜 License
 
-The code is released under the [MIT License](LICENSE). HelpSteer3 is obtained
-from its upstream repository under the CC-BY-4.0 license.
-
-
-## 🙏 Acknowledgements
-
-This work builds on [HelpSteer3](https://huggingface.co/datasets/nvidia/HelpSteer3) (NVIDIA, CC-BY-4.0).
+The repository is released under the [MIT License](LICENSE). 
 
 
 ## 📖 Citation
@@ -267,8 +261,9 @@ If you use DeCert, the code, or the trained models in your research, please cite
 
 ```bibtex
 @article{decert2026,
-  title  = {What Makes a Judgment Justified? Reliable Generative Reward Modeling via Decision Certificate Supervision},
-  author = {Sun, Guiquan and Bai, Bing and Min, Martin Renqiang and Song, Dongjin},
-  year   = {2026}
+  title  = {Judging the Justification: Decision Certificate Supervision for Generative Reward Models},
+  author = {Guiquan Sun and Bing Bai and Martin Renqiang Min and Dongjin Song},
+  year   = {2026},
+  journal = {arXiv preprint arXiv:2610.27528},
 }
 ```
